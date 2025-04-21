@@ -1,6 +1,6 @@
 # 2025 IEEE Low Power Computer Vision Challenge (CVPR2025)
 
-This is the repository of the SEU AIC Lab that won the 2st place in CVPR2025-LPCVC. The team members are Chaoyao Shen, Linghui Kong, Chenlong Xia, Bohan Guo, Yuning Ji, Zizhou tong, Zhuohang Li, Xinxin Wang, Meng Zhang. 
+This is the repository of the SEU AIC Lab that won the 2st place in CVPR2025-LPCVC-Track1. The team members are Chaoyao Shen, Linghui Kong, Chenlong Xia, Bohan Guo, Yuning Ji, Zizhou tong, Zhuohang Li, Xinxin Wang, Meng Zhang. 
 
 ## Overview
 
