@@ -1,8 +1,10 @@
-# 2025 IEEE Low Power Computer Vision Challenge
+# 2025 IEEE Low Power Computer Vision Challenge (CVPR2025)
+
+This is the repository of the SEU AIC Lab that won the 2st place in CVPR2025-LPCVC. The team members are Chaoyao Shen, Linghui Kong, Chenlong Xia, Bohan Guo, Yuning Ji, Zizhou tong, Zhuohang Li, Xinxin Wang, Meng Zhang. 
 
 ## Overview
 
-This project implements a training pipeline for our model used for this challenge, which using Sharpness-Aware Minimization (SAM) optimizer, with additional utilities for model training, evaluation, and deployment.
+This project implements a training pipeline for our model used for this challenge, which using Sharpness-Aware Minimization (SAM) optimizer, with additional utilities for model training, evaluation, and deployment. 
 
 ## Project Structure
 
