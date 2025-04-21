@@ -1,0 +1,14 @@
+# config.yaml
+model: fastvit_mci1_ra_ls_sam_v6
+date: '0329'
+batch_size: 128
+lr: 0.0001
+epochs: 100
+num_workers: 8
+seed: 123
+momentum: 0.9
+weight_decay: 0.0001
+rho: 0.05
+ema: False
+
+data_path : './data/cocov6'
