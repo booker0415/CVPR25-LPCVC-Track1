@@ -93,7 +93,8 @@ python compile_job.py
 
 ## Dataset
 
-This is the link for the dataset we used [dataset](https://drive.google.com/file/d/1g6FscrncyawKKyf7IZdKxdbsovrolm1B/view?usp=drive_link)
+This is the link for the [dataset](https://drive.google.com/file/d/1g6FscrncyawKKyf7IZdKxdbsovrolm1B/view?usp=drive_link) we used.
+
 The project expects a dataset organized in the following structure:
 
 ```
